@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imageresizertools.example/sitemap.xml

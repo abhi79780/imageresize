@@ -1,0 +1,4 @@
+/* Slightly larger brand mark; the header geometry remains unchanged. */
+.header .logo{width:350px;height:180px;margin-top:-53px;margin-bottom:-53px}
+@media(max-width:850px){.header .logo{width:275px;height:160px;margin-top:-46px;margin-bottom:-46px}}
+@media(max-width:520px){.header .logo{width:265px;height:150px;margin-top:-41px;margin-bottom:-41px}}
